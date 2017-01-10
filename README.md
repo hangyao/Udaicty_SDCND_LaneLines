@@ -29,4 +29,4 @@ jupyter notebook P1.ipynb
 
 ## License
 
-The contents of this repository are covered under the MIT License.
+The contents of this repository are covered under the [MIT License](LICENSE).
