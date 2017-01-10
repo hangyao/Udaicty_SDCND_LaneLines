@@ -23,4 +23,10 @@ The completed code is provided in the notebook `P1.ipynb` notebook file.
 
 Make sure you are in the top-level project directory `Udaicty_SDCND_LaneLines/` (that contains this README). Then run:
 
-```jupyter notebook P1.ipynb```
+```
+jupyter notebook P1.ipynb
+```
+
+## License
+
+The contents of this repository are covered under the MIT License.
